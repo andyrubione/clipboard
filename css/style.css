@@ -1,0 +1,226 @@
+
+.hero{
+    background-image: url(../images/bg-header-desktop.png);
+    width:100% ;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.hero .container-fluid{
+    padding: 0;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.fa-copyright{
+    font-size: 130px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    color: hsl(171, 66%, 44%);
+}
+
+.hero h1{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    font-size: 47px;
+    opacity: 0.8;
+    word-spacing: 0% ;
+    
+}
+.clipboard{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    opacity: 0.38;
+    width: 750px;
+}
+
+.btn{
+    height: 62px;
+    width: 240px;
+    border-radius: 40px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    margin: 9px;
+
+}
+
+.txt-btn{
+    color: white;
+    font-size: 20px;
+    opacity: 0.9;
+}
+.ios{
+    background-color: hsl(171, 66%, 44%);
+    border-bottom: 5px solid  hsl(171, 66%, 40%);
+    box-shadow: 10px 19px 43px -4px  hsl(171, 66%, 40%, 0.2);
+}
+.mac{
+    background-color: hsl(233, 100%, 69%) ;
+    border-bottom: 5px solid  hsl(233, 100%, 65%);
+    box-shadow: 10px 19px 43px -4px   hsl(233, 100%, 65%, 0.2);
+}
+
+/*-----------------------------------------------------------------*/
+
+.keep h1{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    opacity: 0.8;
+}
+
+.keep p{
+    font-size: 19px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    opacity: 0.38;
+    font-family: 'Inter', sans-serif;
+    width: 700px;
+    margin-bottom: 90px;
+}
+.monitor{
+    margin-left: -30px;
+    margin-right: 100px;
+}
+
+.description{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    text-align: left;
+    width: 350px;
+    margin-bottom: 50px;
+    line-height: 30px;
+    opacity: 0.8;
+    font-size: 24px;
+}
+.description p {
+font-weight: 600;
+opacity: 0.38;
+font-size: 16px;
+margin-top: 10px;
+}
+/*---------------------------------------*/
+
+.access{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    opacity: 0.8;
+    margin-top: 150px;
+}
+
+.whether{
+    font-size: 19px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    opacity: 0.38;
+    font-family: 'Inter', sans-serif;
+    width: 700px;
+    margin-bottom: 90px;
+}
+.devices{
+    width: 900px;
+}
+
+/*--------------------------------------------------------------*/
+
+.supercharge div div{
+    width: 380px;
+    margin: 0 10px 0 10px;
+}
+
+.supercharge div {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    opacity: 0.8;
+}
+
+.supercharge p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 70px;
+    opacity: 0.38;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.supercharge div div{
+font-size: 26px;
+font-weight: 600;
+}
+
+.supercharge div div img{
+    margin-bottom: 35px;
+}
+.supercharge div div div{
+    color: black;
+    opacity: 1;
+}
+.supercharge div div p{
+    font-size: 17px;
+    margin-bottom: 200px;
+    line-height: 30px;
+}
+.logos img{
+    height: max-content;
+}
+
+/*----------------------------------------*/
+
+.prefoot .container-fluid{
+    margin-top: 150px;
+    padding: 0;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.prefoot h1{
+    word-spacing: 0% ;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    opacity: 0.8;
+    
+}
+
+.prefoot p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 70px;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+/*--------------------------------------*/
+
+.footer{
+    background-color: rgb(128, 128, 128, 10%);
+    height: 130px;
+    margin-top: 150px;
+}
+.insidefooter{
+    padding-top: 40px;
+    height: 80px;
+
+}
+
+.footer div div div{
+    font-size: 18px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    opacity: 0.6;
+    margin-bottom: 10px;
+}
+.footer i{
+    font-size: 60px;
+    margin: 0;
+}
+.footer div img{
+    font-size: 60px;
+    margin-left: 20px;
+}
+
+/*------------------------------------------------------*/
+
